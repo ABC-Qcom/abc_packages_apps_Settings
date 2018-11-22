@@ -11,6 +11,45 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- System theme -->
+    <string name="system_theme_wallpaper">Авто (в зависимости от времени суток)</string>
+    <string name="system_theme_light">Светлая</string>
+    <string name="system_theme_dark">Темная</string>
+    <!-- Themes -->
+    <string name="theme_category_title">Настройки тем</string>
+    <string name="accent_picker_dialog_title">Выберите цвет акцента</string>
+    <string name="theme_accent_picker_title">Цвет акцента</string>
+    <string name="theme_accent_picker_summary">Выберите цвет ацента системы</string>
+    <string name="theme_accent_picker_default">По умолчанию</string>
+    <string name="accent_picker_material_colors">Палитра Material</string>
+    <string name="accent_picker_custom_colors">По запросу пользователей</string>
+
+    <string name="qs_styles_dialog_title">Выберите стиль плиток панели быстрых настроек</string>
+
+    <!-- Ambient category -->
+    <string name="ambient_display_category">Настройки Ambient Display</string>
+    <string name="custom_ambient_display_summary">Настройка продвинутого Ambient Display</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="double_tap_power_flashlight_screen_title">Активация фонарика</string>
+    <string name="double_tap_power_flashlight_title">Включение фонарика кнопкой питания</string>
+    <string name="torch_power_button_gesture_none">Отключено</string>
+    <string name="torch_power_button_gesture_dt">По двойному нажатию</string>
+    <string name="torch_power_button_gesture_lp">По удержанию</string>
+
+    <string name="abc_settings_activity">Персонализация</string>
+    <string name="abc_settings_activity_summary">Дополнительные настройки прошивки</string>
+
+    <string name="full_gesture_mode_title">Полный режим жестов</string>
+    <string name="full_gesture_mode_summary">Этот режим отключает кнопку «Назад», кнопка «Назад» вызывается свайпом влево по панели навигации. Свайп вправо — «Недавние» с возможностью переключения на другое приложние. Для возврата на главный экран, достаточно нажать на пустую область панели. Во время отображения клавиатуры, долгое нажатие на панель навигации будет двигать курсор.</string>
+    <string name="full_gesture_mode_dt2s_title">Двойное нажатие для сна</string>
+    <string name="full_gesture_mode_dt2s_summary">Двойное нажатие на пустую область панели навигации для перехода в режим сна.</string>
+
+    <string name="background_processes_settings_title">Фоновые процессы</string>
+
+    <string name="fp_swipe_to_dismiss_notifications_title">Горизонтальный свайп по сканеру отпечатка для скрытия уведомлений</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Чтобы скрыть уведомления, проведите влево или вправо по сканеру отпечатка пальца.</string>
+
     <!-- Custom light color -->
     <string name="custom_light_title">Цвет светодиода</string>
     <string name="custom_light_on_time_title">Длительность свечения светодиода (мс)</string>
